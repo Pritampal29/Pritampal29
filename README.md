@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pritam Pal</h1>
 <h3 align="center">A WordPress/PHP Developer</h3>
 
-<img align="right" alt="side-img" width="400" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?t=st=1706712566~exp=1706716166~hmac=c126e8336852b2a3279b476a9f435e4e2782ccdbbb78260e12a74fc7633d9e3a&w=740">
+<img align="right" alt="side-img" width="360" height="270" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?t=st=1706712566~exp=1706716166~hmac=c126e8336852b2a3279b476a9f435e4e2782ccdbbb78260e12a74fc7633d9e3a&w=740">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritampal29&label=Profile%20views&color=0e75b6&style=flat" alt="pritampal29" /> </p>
 
