@@ -1,3 +1,4 @@
+![logo](https://blog.paper.li/wp-content/uploads/2020/02/LinkedIn-banner-15-1024x256.png)
 <h1 align="center">Hi 👋, I'm Pritam Pal</h1>
 <h3 align="center">A WordPress/PHP Developer</h3>
 
