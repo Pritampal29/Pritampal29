@@ -1,6 +1,6 @@
 ![logo](banngit-ezgif.com-optimize.gif)
 <h1 align="center">Hi 👋, I'm Pritam Pal</h1>
-<h3 align="center">A WordPress/PHP Developer</h3>
+<h3 align="center">WordPress/PHP Developer</h3>
 
 <img align="right" alt="side-img" width="380" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?t=st=1706712566~exp=1706716166~hmac=c126e8336852b2a3279b476a9f435e4e2782ccdbbb78260e12a74fc7633d9e3a&w=740">
 
@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [EduFab](https://edifab.in)
 
-- 👨‍💻 All of my projects are available at [https://pritamcv.netlify.app](https://pritamcv.netlify.app)
+- 👨‍💻 Find my Portfolio - available at  [View Portfolio](https://pritamcv.netlify.app)
 
 - 📫 How to reach me **dmepritam@gmail.com**
 
-- 📄 Know about my experiences [https://pritamcv.netlify.app](https://pritamcv.netlify.app)
+- 📄 Know about my experiences [pritamcv.netlify.app](https://pritamcv.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
