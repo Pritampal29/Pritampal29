@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritampal29&label=Profile%20views&color=0e75b6&style=flat" alt="pritampal29" /> </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [EduFab](https://edifab.in)
+- 🔭 I’m currently working on [Sleek InfoSolutions Pvt Ltd.](https://www.sleekinfosolutions.com/)
 
 - 👨‍💻 Find my Portfolio - available at  [View Portfolio](https://pritamcv.netlify.app)
 
